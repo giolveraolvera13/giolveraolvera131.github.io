@@ -94,7 +94,6 @@
         La cultura venezolana es un rico mosaico de tradiciones, costumbres y expresiones artísticas que reflejan la diversidad de su gente y su historia. Desde las influencias indígenas originarias, pasando por la herencia española, hasta las aportaciones africanas y europeas, la identidad cultural de Venezuela se ha construido a lo largo de siglos de convivencia y mezcla de pueblos. La música tradicional, como el joropo, es uno de los pilares fundamentales de la cultura nacional, con su ritmo alegre y sus instrumentos típicos que animan festivales y celebraciones en todo el país. Además, la danza, el teatro y la literatura venezolana han sido manifestaciones vitales para expresar la realidad social, política y emocional de sus habitantes. La gastronomía, las festividades religiosas y populares, y las artesanías, como la elaboración de sombreros y tejidos, también forman parte esencial de esta riqueza cultural. En las ciudades y en el campo, la cultura venezolana se vive día a día a través de la familia, las tradiciones orales y los eventos comunitarios, que mantienen viva la memoria colectiva y el sentido de pertenencia. La pluralidad lingüística, con la presencia de lenguas indígenas, es otro aspecto relevante que contribuye a la diversidad cultural. En suma, la cultura de Venezuela es un reflejo de su historia compleja y de la creatividad de su pueblo, que sigue evolucionando y adaptándose en un mundo globalizado sin perder sus raíces profundas.
       </p>
     </section>
-
     <section id="gastronomia">
       <h2>Gastronomía Venezolana</h2>
       <img src="https://raw.githubusercontent.com/giolveraolvera13/giolveraolvera13.github.io/main/arepas.jpg" alt="Gastronomía Venezolana" />
@@ -102,7 +101,6 @@
         La gastronomía venezolana es un deleite para los sentidos, caracterizada por su variedad y sabor que refleja la diversidad geográfica y cultural del país. Platos emblemáticos como las arepas, las hallacas, el pabellón criollo, las empanadas y el asado negro representan la fusión de ingredientes autóctonos con técnicas culinarias traídas por los colonizadores y adaptadas a lo largo del tiempo. La arepa, hecha de masa de maíz, es un símbolo nacional y se consume en múltiples variantes y preparaciones, ya sea rellena de queso, carne, pollo o vegetales. Las hallacas, típicas de la temporada navideña, reúnen una mezcla compleja de ingredientes dentro de una masa envuelta en hojas de plátano, reflejando la diversidad regional. Además, la gastronomía venezolana se enriquece con frutas tropicales como el mango, la guayaba y la parchita, y con una amplia variedad de platos a base de pescado y mariscos, especialmente en las regiones costeras. Las tradiciones culinarias no solo nutren el cuerpo sino que también fortalecen los lazos familiares y sociales, pues muchas recetas se transmiten de generación en generación. Los mercados y festivales gastronómicos permiten a los venezolanos y visitantes conocer la riqueza culinaria del país, mostrando además cómo la comida es parte fundamental de la identidad nacional.
       </p>
     </section>
-
     <section id="lugares">
       <h2>Lugares Turísticos de Venezuela</h2>
       <img src="https://raw.githubusercontent.com/giolveraolvera13/giolveraolvera13.github.io/main/morrocoy.jpg" alt="Lugares Turísticos de Venezuela" />
@@ -112,7 +110,6 @@
       <img src="https://raw.githubusercontent.com/giolveraolvera13/giolveraolvera13.github.io/main/salto_angel.jpg" alt="Salto Ángel" style="margin-top:20px;"/>
       <img src="https://raw.githubusercontent.com/giolveraolvera13/giolveraolvera13.github.io/main/tepuy_roraima.jpg" alt="Tepuy Roraima" style="margin-top:20px;"/>
     </section>
-
     <section id="naturaleza">
       <h2>Naturaleza Venezolana</h2>
       <img src="https://raw.githubusercontent.com/giolveraolvera13/giolveraolvera13.github.io/main/venezuela_paisaje.jpg" alt="Naturaleza en Venezuela" />
@@ -128,3 +125,4 @@
 
 </body>
 </html>
+
